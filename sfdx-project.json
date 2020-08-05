@@ -2,6 +2,10 @@
   "packageDirectories": [
     {
       "path": "es-base-objects",
+      "default": false
+    },
+    {
+      "path": "es-space-mgmt",
       "default": true
     },
     {
